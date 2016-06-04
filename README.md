@@ -1,3 +1,3 @@
 # 《 gulp+flexbox 响应式网站教程》
 
-最早本课程是《摩登前端开发者》的第一阶段，后来抽出并进行了改版。
+HappyPeter老师的课程，关于NODE+Gulp+Flex+Sass，非常喜欢！
